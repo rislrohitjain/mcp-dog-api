@@ -1,7 +1,7 @@
 {
   "mcpServers": {
-    "dog-api-local": {
-      "url": "http://172.18.177.164:8000/mcp/sse"
+    "dog-api-live": {
+      "url": "https://mcp-dog-api.vercel.app/mcp/sse"
     }
   }
 }

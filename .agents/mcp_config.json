@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "dog-api-local": {
+      "url": "http://172.18.177.164:8000/mcp/sse"
+    }
+  }
+}
